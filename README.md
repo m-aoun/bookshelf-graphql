@@ -340,6 +340,10 @@ tests/
   helpers.ts       test helpers (fresh in-memory DB + server per test)
 ```
 
+## License
+
+MIT — see [LICENSE](LICENSE).
+
 ## Author
 
 **Muhammad Aoun Shabbir** — [github.com/m-aoun](https://github.com/m-aoun)
